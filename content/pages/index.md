@@ -90,7 +90,7 @@ sections:
   - type: grid_section
     title: Our Principles
     grid_items:
-      - title: What to Do
+      - title: Best Design
         title_align: left
         content: >-
           Goals take time, hard work, perseverance and commitment to achieve it.
