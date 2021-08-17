@@ -101,7 +101,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Most Affordable Servie
+      - title: Lowest Prices
         title_align: left
         content: |
           We will offer you with the most affordable prices in industry
