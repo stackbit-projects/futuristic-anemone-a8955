@@ -49,10 +49,9 @@ sections:
         media_position: right
         media_width: sixty
       - title: App Development
-        content: >-
-          Friends are an integral part of our life, a true friend can motivate
-          you to achieve your goals. With Your Goal, you can set goals with your
-          friends and achieve them together.
+        content: >
+          Get your Mobile applications made now, Enim AI specialises in android
+          applications optimised across all platforms
         actions:
           - label: Learn More
             url: /thank-you
