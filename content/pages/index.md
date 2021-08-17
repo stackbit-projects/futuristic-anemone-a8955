@@ -43,13 +43,7 @@ sections:
         content: >
           Enim AI offers Website development with state-of-art technologies like
           ReactJS, NextJS and NodeJS.
-        actions:
-          - label: Learn More
-            url: /thank-you
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-1.png
         image_alt: Feature 1 placeholder image
         media_position: right
