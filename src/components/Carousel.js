@@ -2,6 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 
 import { Link, withPrefix, classNames } from '../utils';
+import Carousel from 'react-strap;'
 
 export default class ActionIcon extends React.Component {
     render() {
