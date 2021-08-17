@@ -114,10 +114,9 @@ sections:
         image_has_padding: true
       - title: Fast Delivery
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Get your websites and app made with lightning-fast speed. No need to
+          wait for months to get started with your business.
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
