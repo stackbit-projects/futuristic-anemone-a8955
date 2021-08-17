@@ -39,7 +39,7 @@ sections:
   - type: features_section
     title: Our Services
     features:
-      - title: All the Activity Data You Need to Improve Yourself
+      - title: Website Development
         content: >-
           With Your Goal, you can create a dashboard with data about your
           activities and track your progress.
