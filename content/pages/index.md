@@ -140,21 +140,6 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-  - type: blog_feed_section
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_image: true
-    show_date: true
-    show_categories: true
-    show_author: false
-    show_excerpt: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
   - type: cta_section
     title: Ready to get started?
     content: Start achieving your goals today!
