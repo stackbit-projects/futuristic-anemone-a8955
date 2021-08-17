@@ -40,9 +40,9 @@ sections:
     title: Our Services
     features:
       - title: Website Development
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >
+          Enim AI offers Website development with state-of-art technologies like
+          ReactJS, NextJS and NodeJS.
         actions:
           - label: Learn More
             url: /thank-you
