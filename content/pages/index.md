@@ -58,9 +58,10 @@ sections:
         media_position: left
         media_width: sixty
       - title: Cloud Solutions
-        content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+        content: >
+          Get your Applications and Products deployed seamlessly on the cloud.
+          Integrate various cloud functionalities in your product with help of
+          AWS, GCP or Azure
         actions:
           - label: Learn More
             url: /thank-you
