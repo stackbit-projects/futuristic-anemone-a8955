@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Achieve your Goals!
-    subtitle: Celebrating daily wins with YourGoal.
     actions: []
     image: images/hero.svg
     image_alt: Hero section placeholder image
