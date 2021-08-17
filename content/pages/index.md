@@ -37,7 +37,7 @@ sections:
     background_color: none
     enable_cards: false
   - type: features_section
-    title: Why Choose YourGoal?
+    title: Our Services
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >-
